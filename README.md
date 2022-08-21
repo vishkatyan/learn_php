@@ -17,7 +17,9 @@ Currently learning about functions in PHP...
 
 Recently I have made a mini project called as 'Calculator with dynamic content'.
 
-**Interview Point Question**
+
+***IMPORTANT***
+***Interview Point Question***
 Difference between == and ===:
 * == refers to equal $x==$y --> Returns truw if $x is equal to $y.
 * === refers to identical, $x===$y  --> Returns true if $x is equal to $y. and they are of same type.
