@@ -25,5 +25,5 @@ Which UI is best?
 
 OR
 
-![Screenshot (74)](https://user-images.githubusercontent.com/82721870/185789325-76d1bb7d-5414-40ed-8546-b94038be3a6d.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/82721870/185789386-a62e87dd-f321-4b73-a54e-fe3f04e2408c.png)
 
