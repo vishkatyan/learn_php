@@ -27,7 +27,7 @@ Difference between == and ===:
 String Functions:
 1. strlen() --> Returns the length of the string.
 2. str_word_count() --> Returns the word count of the string.
-3. str_replace --> Replaces a character/ word in a string, it is case-sensitive.
+3. str_replace(search, replace, subject) --> Replaces a character/ word in a string, it is case-sensitive.
 4. str_ireplace -->  Replaces a character/ word in a string, it is case-insensitive.
 
 To be continued...
