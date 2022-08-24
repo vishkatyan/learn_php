@@ -40,3 +40,9 @@ OR
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/82721870/185789386-a62e87dd-f321-4b73-a54e-fe3f04e2408c.png)
 
+
+
+Another task: Temperature conversion with dynamic content
+
+![Screenshot (76)](https://user-images.githubusercontent.com/82721870/186394498-35d671e4-2b80-41c5-af22-48d877665ef5.png)
+
