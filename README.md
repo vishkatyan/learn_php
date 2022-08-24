@@ -24,6 +24,10 @@ Difference between == and ===:
 * == refers to equal $x==$y --> Returns truw if $x is equal to $y.
 * === refers to identical, $x===$y  --> Returns true if $x is equal to $y. and they are of same type.
 
+String Functions:
+1. strlen() --> Returns the length of the string.
+2. str_word_count() --> Returns the word count of the string.
+
 To be continued...
 
 Which UI is best?
